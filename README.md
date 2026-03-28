@@ -17,4 +17,4 @@
 
 
 The app will show as a potential virus because of Google Play Protect 
-[Virus total result](https://www.virustotal.com/gui/file/667e29c35357ae008e0d87801a22e0cceaf3a85a71b3bb85a79b64b4f112b688)
+[Virus total result on 1.1](https://www.virustotal.com/gui/file/f6f49d22fe38f0fb65d7b3636472ee54de17ab9ac1fd0ec78077dd9a02a07dbb?nocache=1)
